@@ -1,0 +1,2 @@
+package ua.edu.nupp.kpp.server;
+public class AppUser { private long id; private String fullName,email,roleName; public AppUser(){} public long getId(){return id;} public void setId(long v){id=v;} public String getFullName(){return fullName;} public void setFullName(String v){fullName=v;} public String getEmail(){return email;} public void setEmail(String v){email=v;} public String getRoleName(){return roleName;} public void setRoleName(String v){roleName=v;} }

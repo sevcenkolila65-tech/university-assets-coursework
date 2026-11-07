@@ -1,0 +1,3 @@
+package ua.edu.nupp.kpp.server;
+import java.time.LocalDateTime;
+public class TransferRecord { private long id,requestId; private LocalDateTime issuedAt,returnedAt; private String notes; public TransferRecord(){} public long getId(){return id;} public void setId(long v){id=v;} public long getRequestId(){return requestId;} public void setRequestId(long v){requestId=v;} public LocalDateTime getIssuedAt(){return issuedAt;} public void setIssuedAt(LocalDateTime v){issuedAt=v;} public LocalDateTime getReturnedAt(){return returnedAt;} public void setReturnedAt(LocalDateTime v){returnedAt=v;} public String getNotes(){return notes;} public void setNotes(String v){notes=v;} }

@@ -1,0 +1,4 @@
+name,inventoryNumber,conditionState,totalUnits,availableUnits,criticality
+Планшет Samsung,INV-CSV-01,СПРАВНИЙ,8,6,75
+Клавіатура USB,INV-CSV-02,СПРАВНИЙ,15,12,30
+Вебкамера,INV-CSV-03,СПРАВНИЙ,7,5,55
